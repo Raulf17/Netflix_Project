@@ -3,3 +3,15 @@
 # Netflix_Project
 
 The project aimed to analyze Netflix's database, which contains information about various titles, release years, and countries of origin. The analysis involved running several queries to gain meaningful insights into the data.The data visualizations, combined with the findings from the exploratory analysis, provide a comprehensive understanding of Netflix's content distribution, regional production, and temporal trends. This information can be valuable for decision-making and strategic planning within the company.
+
+
+This project demonstrates my expertise in leveraging SQL and Tableau to conduct in-depth analysis and create compelling visualizations on the subject of Netflix content. The insights generated through this work will serve as a valuable reference for stakeholders interested in comprehending the trends, regional distribution, and temporal patterns of Netflix's extensive catalog.
+
+SQL skills used:
+* JOINs
+* Temp tables
+* CTEs
+* Windows functions
+* Aggregate functions
+* Creating views
+* Converting data types
